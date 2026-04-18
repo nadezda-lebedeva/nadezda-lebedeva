@@ -33,9 +33,11 @@ Built UA department from zero to 12-person team · Cross-functional collaboratio
 ## Projects
 
 | Project | Description |
-|---|---|
+| --- | --- |
 | [UA Systems](https://nadezda-lebedeva.github.io/ua-systems/) | Structured UA processes + AI agent maps: hypothesis testing, new channel launches, Facebook auto rules |
+| [Simple AI Agents for Beginners](https://nadezda-lebedeva.github.io/simple-ai-agents-for-beginners/) | Step-by-step guides to build your first AI agents — no coding required |
 | [UA Matrix Dashboard](https://nadezda-lebedeva.github.io/ua-matrix-dashboard/) | Interactive UA channel comparison dashboard for mobile gaming |
+| [Finnish Flashcards](https://nadezda-lebedeva.github.io/flashcards/) | Vocabulary flashcard app with AI word extraction — Finnish–English and Finnish–Russian |
 
 ---
 
