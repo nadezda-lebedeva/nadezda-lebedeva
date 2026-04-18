@@ -23,7 +23,7 @@ Hypothesis-testing frameworks (ICE scoring, structured A/B tests, knowledge base
 Facebook auto rules (Revealbot + platform-native) · UA process design · AI agent mapping for UA workflows
 
 **Analytics & Data**  
-MMPs: AppsFlyer, Singular, Adjust · BI tools · Power BI · Google Analytics · LTV modelling · Cohort analysis
+MMPs: AppsFlyer, Singular, Adjust · BI tools · Power BI · Google Analytics · LTV model · Cohort analysis
 
 **Leadership**  
 Built UA department from zero to 12-person team · Cross-functional collaboration with Product, Analytics, C-level · Vendor & agency management (25+ partners)
